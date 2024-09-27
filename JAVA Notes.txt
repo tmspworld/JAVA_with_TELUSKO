@@ -1,2 +1,4 @@
 Hello All This Is Java Notes With tmspworld/JAVA_with_TELUSKO
 
+There is Some code in Data Connection which are deprecated
+Therefore we will learn only JAVA Core Concept with TELUSKO
